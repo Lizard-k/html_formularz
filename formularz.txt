@@ -4,10 +4,10 @@
         <meta charset="UTF-8">
         <title>Strona na divach</title>
     </head>
-    <body style="background-color: grey;">
+    <body style="background-color: red;">
         <div id="container" style="width: 100%; height: 100%;">
 
-            <div="header" style="background-color: #FFA500; height: 10%;">
+            <div="header" style="background-color: #FFA504; height: 10%;">
                 <h1 style="margin-bottom: 0;">Main Title of Web Page</h1>
             </div>
 
@@ -51,7 +51,6 @@
                     <input type="checkbox" id="muz2" name="muzyka"> <label for="muz2">Heavy Metal</label> <br>
                     <input type="checkbox" id="muz3" name="muzyka"> <label for="muz3">Pop</label> <br>
                     <input type="checkbox" id="muz4" name="muzyka"> <label for="muz4">Techno</label> <br>
-                    <input type="checkbox" id="muz5" name="muzyka"> <label for="muz5">Muzyka poważna</label> <br>
                     <input type="checkbox" id="muz6" name="muzyka"> <label for="muz6">Inna (podaj jaka):</label> 
                     <input type="text" name="" id="M_inna"> <br> <br>
                     Jakiej przeglądarki internetowej używasz? <br>
